@@ -1,1 +1,1 @@
-This repository contains the default nginx configuration file
+This repository contains the default nginx configuration file prosto tak
